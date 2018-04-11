@@ -13,6 +13,6 @@ new Vue({
   components: { App },
   template: '<App/>',
   data: {
-    message: 'Hello World from VueJS'
+    msg: 'Hello World from VueJS'
   }
 })
